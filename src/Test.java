@@ -1,5 +1,5 @@
 
-public class Test {
+ublic class Test {
 	public void Test(){
 		
 	}
