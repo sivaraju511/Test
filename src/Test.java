@@ -1,6 +1,6 @@
 
 public class Test {
-	public void Test(){
+	public long Test(){
 		
 	}
 }
