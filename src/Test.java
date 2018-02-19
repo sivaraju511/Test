@@ -1,6 +1,6 @@
 
 public class Test {
-	public void Test(){
-		
+	public int Test(){
+		return 0;
 	}
 }
